@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+	<div id="RadGridCursussen_GridData" class="rgDataDiv" style="overflow-x:auto;overflow-y:auto;width:100%;height:245px;">
+
+<table class=" rgClipCells" border="0" id="RadGridCursussen_ctl00" style="width:100%;table-layout:fixed;empty-cells:show;">
+	<colgroup>
+		<col style="width:35px" />
+		<col style="width:30px" />
+		<col style="width:5%" />
+		<col style="width:5%" />
+		<col style="width:5%" />
+		<col style="width:26%" />
+		<col style="width:15%" />
+		<col style="width:4%" />
+		<col style="width:4%" />
+		<col style="width:4%" />
+		<col style="width:14%" />
+		<col style="width:4%" />
+		<col style="width:3%" />
+		<col style="width:3%" />
+		<col style="width:3%" />
+		<col style="width:3%" />
+		<col style="width:3%" />
+		<col style="width:65px" />
+		<col style="width:60px" />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Bundel</th><th scope="col"></th><th scope="col">Vest</th><th scope="col">Opl</th><th scope="col">UC</th><th scope="col">Cursus</th><th scope="col">Lesdag(en)</th><th scope="col">Begin</th><th scope="col">Einde</th><th scope="col">Reg</th><th scope="col">Personeelslid</th><th scope="col">Lokaal</th><th scope="col">3'den</th><th scope="col">HvN</th><th scope="col" title="Atl. ingeschreven cursisten">IC</th><th scope="col" title="Atl. huidig ingeschreven cursisten">HIC</th><th scope="col">MAX</th><th scope="col">IG</th><th scope="col">Kost</th>
+		</tr><tr>
+			<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33724);">20153853</td><td>
+                                    
+                                 di(vm) RODE KRUIS - Tuinonderhoud (M1522V12VLU0008)</td><td>di (vm)</td><td>25.04</td><td>30.06</td><td>17.05</td><td>Claessens Kurt</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33727);">20153858</td><td>
+                                    
+                                 do(nm) RODE KRUIS - Bosmaaier (M1524N12VLU0011)</td><td>do (nm)</td><td>25.04</td><td>30.06</td><td>17.05</td><td>&nbsp;</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33728);">20153857</td><td>
+                                    
+                                 do(nm) RODE KRUIS - Bosmaaier (M1524N12VLU0012)</td><td>do (nm)</td><td>25.04</td><td>30.06</td><td>17.05</td><td>Jacobs Michaël</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33725);">20153860</td><td>
+                                    
+                                 do(vm) RODE KRUIS - Bosmaaier (M1522V12VLU0009)</td><td>do (vm)</td><td>25.04</td><td>30.06</td><td>17.05</td><td>Jacobs Michaël</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33726);">20153859</td><td>
+                                    
+                                 do(vm) RODE KRUIS - Bosmaaier (M1522V12VLU0010)</td><td>do (vm)</td><td>25.04</td><td>30.06</td><td>17.05</td><td>Jacobs Michaël</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(31015);">20150500</td><td>
+                                    
+                                 JR1 ma(av) 1x/14d kruiden Beginners (Koppel HAPT) (M1511A120284)</td><td>ma (av)</td><td>01.09</td><td>30.06</td><td>14.12</td><td>Catalano Francesco</td><td>9</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">12</td><td style="mso-number-format:0;">12</td><td style="mso-number-format:0;">14</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(31016);">20150501</td><td>
+                                    
+                                 JR2 ma(av) 1x/14d kruiden Gevorderde (koppel HAPT) (M1511A110285)</td><td>ma (av)</td><td>01.09</td><td>30.06</td><td>23.11</td><td>Catalano Francesco</td><td>9</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">7</td><td style="mso-number-format:0;">7</td><td style="mso-number-format:0;">14</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33722);">20153851</td><td>
+                                    
+                                 ma(vm) RODE KRUIS - Tuinonderhoud (M1521V12VLU0006)</td><td>&nbsp;</td><td>25.04</td><td>30.06</td><td>17.05</td><td>Jacobs Michaël</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30761);">20150203</td><td>
+                                    
+                                 S1 di(av) Plantenkennis C (M1512A100103)</td><td>di (av)</td><td>01.09</td><td>26.01</td><td>13.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td><td style="mso-number-format:0;">5</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30762);">20150204</td><td>
+                                    
+                                 S1 di(av) Plantenkennis C (M1512A100104)</td><td>di (av)</td><td>01.09</td><td>26.01</td><td>13.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td><td style="mso-number-format:0;">5</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30763);">20150205</td><td>
+                                    
+                                 S1 di(av) Plantenkennis C (M1512A100105)</td><td>di (av)</td><td>01.09</td><td>26.01</td><td>13.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td><td style="mso-number-format:0;">5</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30768);">20150210</td><td>
+                                    
+                                 S1 di(dag) Kettingzaaggebruik B (M1512D120110)</td><td>&nbsp;</td><td>01.12</td><td>15.12</td><td>08.12</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">16</td><td style="mso-number-format:0;">16</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33248);">20153476</td><td>
+                                    
+                                 S1 di(dag) Kettingzaaggebruik B (M1512D120111)</td><td>di (vm)</td><td>05.01</td><td>19.01</td><td>09.01</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td><td style="mso-number-format:0;">4</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30765);">20150207</td><td>
+                                    
+                                 S1 di(dag) Machine gebruik (M1512D100107)</td><td>di (vm), di (nm)</td><td>20.10</td><td>24.11</td><td>27.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30766);">20150208</td><td>
+                                    
+                                 S1 di(dag) Machine onderhoud (M1512D100108)</td><td>di (vm), di (nm)</td><td>20.10</td><td>24.11</td><td>27.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30758);">20150200</td><td>
+                                    
+                                 S1 ma(av) Plantenkennis A (M1511A100100)</td><td>ma (av)</td><td>07.09</td><td>25.01</td><td>12.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30759);">20150201</td><td>
+                                    
+                                 S1 ma(av) Plantenkennis A (M1511A100101)</td><td>ma (av)</td><td>07.09</td><td>25.01</td><td>12.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30760);">20150202</td><td>
+                                    
+                                 S1 ma(av) Plantenkennis A (M1511A100102)</td><td>ma (av)</td><td>07.09</td><td>25.01</td><td>12.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30756);">20150197</td><td>
+                                    
+                                 S1 ma(dag) Kettingzaaggebruik A (M1511D120098)</td><td>ma (vm), ma (nm)</td><td>30.11</td><td>11.01</td><td>07.12</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30757);">20150198</td><td>
+                                    
+                                 S1 ma(dag) Kettingzaaggebruik B (M1511D120099)</td><td>ma (vm), ma (nm)</td><td>30.11</td><td>11.01</td><td>07.12</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30754);">20150195</td><td>
+                                    
+                                 S1 ma(dag) Plantkennis Labor Ter Engelen (M1511D090096)</td><td>ma (vm), ma (nm)</td><td>14.09</td><td>12.10</td><td>21.09</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30769);">20150211</td><td>
+                                    
+                                 S1 wo(av) Plantenonderhoud A (M1513A100111)</td><td>wo (av)</td><td>02.09</td><td>27.01</td><td>14.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td><td style="mso-number-format:0;">6</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30770);">20150212</td><td>
+                                    
+                                 S1 wo(av) Plantenonderhoud B (M1513A100112)</td><td>wo (av)</td><td>02.09</td><td>27.01</td><td>14.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td><td style="mso-number-format:0;">6</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 60,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30771);">20150213</td><td>
+                                    
+                                 S1 za(vm) Snoeien in de sierteelt - najaar snoei (M1516V100113)</td><td>za (vm)</td><td>05.09</td><td>30.01</td><td>17.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30772);">20150214</td><td>
+                                    
+                                 S1 za(vm) Snoeien in de sierteelt - najaar snoei (M1516V100114)</td><td>za (vm)</td><td>05.09</td><td>30.01</td><td>17.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30773);">20150215</td><td>
+                                    
+                                 S1 za(vm) Snoeien in de sierteelt - najaar snoei (M1516V100115)</td><td>za (vm)</td><td>05.09</td><td>30.01</td><td>17.10</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30930);">20150355</td><td>
+                                    
+                                 S2 di(dag) Kettingzaaggebruik A - VOLZET (M1522D020250)</td><td>di (vm), di (nm)</td><td>26.01</td><td>01.03</td><td>02.02</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td title="De cursus staat aangeduid als volzet." style="color:OrangeRed;mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(30931);">20150356</td><td>
+                                    
+                                 S2 di(dag) Kettingzaaggebruik B - VOLZET (M1522D020251)</td><td>di (vm), di (nm)</td><td>26.01</td><td>01.03</td><td>02.02</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td title="De cursus staat aangeduid als volzet." style="color:OrangeRed;mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33503);">20153757</td><td>
+                                    
+                                 S2 ma(dag) voorjaarsnoei A (M1522D03TUIN003)</td><td>ma (vm), ma (nm)</td><td>14.03</td><td>25.04</td><td>28.03</td><td>Jacobs Michaël</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(33504);">20153758</td><td>
+                                    
+                                 S2 ma(dag) voorjaarsnoei B (M1522D03TUIN004)</td><td>ma (vm), ma (nm)</td><td>14.03</td><td>25.04</td><td>28.03</td><td>Jacobs Michaël</td><td>&nbsp;</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(32927);">20153066</td><td>
+                                    
+                                 S2 za(vm) Snoeien in de sierteelt (M1526V120731)</td><td>za (vm)</td><td>06.02</td><td>30.06</td><td>26.03</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(32928);">20153067</td><td>
+                                    
+                                 S2 za(vm) Snoeien in de sierteelt (M1526V120732)</td><td>za (vm)</td><td>01.02</td><td>30.06</td><td>26.03</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(32929);">20153068</td><td>
+                                    
+                                 S2 za(vm) Snoeien in de sierteelt (M1526V120733)</td><td>za (vm)</td><td>01.02</td><td>30.06</td><td>26.03</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">
+                                    
+                                 </td><td>C</td><td>1530</td><td class="u" onclick="consultDepart(2175);">TUIN-HOPT</td><td class="u" onclick="consultClass(32930);">20153069</td><td>
+                                    
+                                 S2 za(vm) Snoeien in de sierteelt (M1526V120734)</td><td>za (vm)</td><td>01.02</td><td>30.06</td><td>26.03</td><td>Jacobs Michaël</td><td>76</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0\.00;">€ 30,00</td><td style="mso-number-format:0\.00;">€ 0,00</td>
+	</tr>
+	</tbody>
+
+</table>	</div>
+</body></html>
